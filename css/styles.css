@@ -67,14 +67,9 @@ a.nav-link {
   background-color: #5DA399;
 }
 
-.jumbotron h1 {
+.jumbotron {
   color: #35393C;
   font-family: 'Arial', sans-serif;
-}
-
-.jumbotron p {
-  color: #35393C;
-  text-shadow: .1px .1px #fafafa;
   line-height: 1.5em;
 }
 
