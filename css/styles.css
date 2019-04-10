@@ -1,4 +1,146 @@
 body {
+  background-color: #63CCCA
+  color: #35393C;
+  font-family: 'Arial', sans-serif;
+}
+
+h2 {
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+nav {
+  color: white;
+}w
+
+.navbar {
+  margin-bottom: 0;
+  padding-bottom: 2%;
+}
+
+.navbar-default {
+  background-color: #397367;
+  border: none;
+  border: none;
+}
+
+.navbar-default .navbar-brand {
+  color: #35393C;
+  font-size: 2em;
+  font-family: 'Arial', sans-serif;
+}
+
+a.navbar-brand {
+  font-size: 2em;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+}
+
+.navbar-brand a:hover {
+  color: blue;
+}
+
+a.nav-link {
+  font-size: 1em;
+}
+
+.nav.navbar-nav.navbar-right {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: #fff;
+}
+
+.jumbotron {
+	margin-top: -2%;
+  margin-bottom: 0;
+  padding: 5%;
+  background-color: #5DA399;
+}
+
+.jumbotron h1 {
+  color: #35393C;
+  font-family: 'Arial', sans-serif;
+}
+
+.jumbotron p {
+  color: #35393C;
+  text-shadow: .1px .1px #fafafa;
+  line-height: 1.5em;
+}
+
+.mkPhoto {
+  display: block;
+  margin: auto;
+  width: 320px;
+  border-radius: 100%;
+  border: solid 5px #42858C;
+}
+
+h2 {
+  color: ##35393C;
+  text-shadow: .3px .3px #000;
+}
+
+#earlyStuff {
+  display: none;
+}
+
+.stuffUsed {
+  color: #397367;
+  font-weight: bold;
+}
+
+.panel {
+  border: none;
+  box-shadow: none;
+  padding: 0 5%;
+}
+
+.panel p {
+  color: #584e5f;
+}
+
+.panel h3 {
+  text-align: center;
+}
+
+.panel h3 a {
+  color: ##35393C;
+  text-decoration: none;
+}
+
+
+h3.bg-h3 {
+  padding-bottom: 6%;
+  color: ##35393C;
+  font-size: 2em;
+}
+
+h4.aboutMe {
+  color: ##3937367;
+  font-family: sans-serif;
+}
+
+.aboutMe {
+  text-align: left;
+}
+
+ul {
+  padding-left: 1%;
+  list-style-type: none;
+  font-size: 1.5em;
+}
+
   background-color: lightblue;
   margin: 0;
 }
