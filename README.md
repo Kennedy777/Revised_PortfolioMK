@@ -1,8 +1,8 @@
-# _{Marguerite Kennedy Portfolio}_
+# _Marguerite Kennedy Portfolio_
 
-#### _{A One-Page Resume and Portfolio of Projects}, {April 2, 2019}_
+#### _A One-Page Resume and Portfolio of Projects, April 2, 2019_
 
-#### By _**{Marguerite Kennedy}**_
+#### By _**Marguerite Kennedy**_
 
 ## Description
 
